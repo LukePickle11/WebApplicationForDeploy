@@ -4,18 +4,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lukepickle</groupId>
-    <artifactId>WebApplicationForDeploy</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>LukeDeployApp</artifactId>
+    <version>1.0.0</version>
     <packaging>war</packaging>
 
-    <name>WebApplicationForDeploy</name>
+    <name>LukeDeployApp</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <build>
-        <finalName>WebApplicationForDeploy-0.0.1-SNAPSHOT</finalName>
+        <finalName>LukeDeployApp</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
